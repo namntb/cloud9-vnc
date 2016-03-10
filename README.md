@@ -7,7 +7,10 @@ Running X11 in a Cloud9 workspace.
 
 Installation
 ------------
-
+First: 
+sudo su
+apt-get update
+exit
     ./install.sh
 
 Running
